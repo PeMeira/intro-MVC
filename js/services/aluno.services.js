@@ -1,5 +1,5 @@
 class AlunoService {
-    constructor (){
+    constructor() {
         this.alunos = []
     }
 
